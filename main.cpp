@@ -5,7 +5,7 @@
 
 int main() {
    
-    prisdsdntf("Hello, World!");
+    printf("Hello, World!");
 
     return 0;
 }
