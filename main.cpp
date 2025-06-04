@@ -5,7 +5,7 @@
 
 int main() {
    
-    prinffftf("Hello, World!");
+    printf("Hello, World!");
 
     return 0;
 }
