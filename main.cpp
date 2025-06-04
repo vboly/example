@@ -5,7 +5,7 @@
 
 int main() {
    
-    pridsdsdgintf("Hello, World!");
+    pridsdsdgddsdintf("Hello, World!");
 
     return 0;
 }
